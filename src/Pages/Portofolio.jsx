@@ -89,13 +89,13 @@ export default function Portfolio() {
           My passion lies in leveraging <span className="font-semibold text-blue-300">technology to solve real-world problems</span>. I am particularly interested in how digital systems can improve everyday processes, enhance business operations, and create positive social impact. Through continuous learning and practical project experiences, I strive to sharpen my skills and stay updated with the latest in tech.
         </p>
         <div className="flex justify-center space-x-4 mt-6" data-aos="fade-up" data-aos-delay="300">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="transition-transform duration-300 hover:scale-110">
+          <a href="https://github.com/erd696" target="_blank" rel="noopener noreferrer" className="transition-transform duration-300 hover:scale-110">
             <FaGithub size={28} />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="transition-transform duration-300 hover:scale-110">
+          <a href="https://www.linkedin.com/in/ericdaniswara/" target="_blank" rel="noopener noreferrer" className="transition-transform duration-300 hover:scale-110">
             <FaLinkedin size={28} />
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="transition-transform duration-300 hover:scale-110">
+          <a href="https://www.instagram.com/erd696_/" target="_blank" rel="noopener noreferrer" className="transition-transform duration-300 hover:scale-110">
             <FaInstagram size={28} />
           </a>
         </div>
